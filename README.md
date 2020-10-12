@@ -6,7 +6,7 @@
 - &nbsp; Full Stack Web Developer
 - &nbsp; Florida Native
 - &nbsp; Passion for puzzles, escape rooms, and code challenges.
-- &nbsp; Delving into the world of build discord bots
+- &nbsp; Delving into the world of building discord bots
 - &nbsp; Coffee and cats are my life force.
 
 <h3>🛠 Tech Skills</h3>
