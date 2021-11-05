@@ -13,7 +13,7 @@
 
 - &nbsp; JavaScript | HTML | CSS |   
 - &nbsp; React | React Native | LESS/SASS 
-- &nbsp; SQLite | postgreSQL | Express | Python |
+- &nbsp; SQLite | postgreSQL | Express | Python | Go
 - &nbsp; Git | Visual Studio code |
 
 
